@@ -32,3 +32,4 @@ RUN chmod +x ./scripts/start.sh
 CMD ["./scripts/start.sh"]
 # docker run -itd -p 9013:9002 test-blog:0.0.2
 FROM ubuntu:20.10
+ FROM ubuntu:20.04
