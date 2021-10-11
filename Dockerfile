@@ -34,3 +34,4 @@ CMD ["./scripts/start.sh"]
 FROM ubuntu:20.10
  FROM ubuntu:20.04
  FROM ubuntu:20.04
+ FROM ubuntu:20.04
