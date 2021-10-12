@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:20.12
 # base image
 
 LABEL maintainer="frankysjtu@gmail.com"
